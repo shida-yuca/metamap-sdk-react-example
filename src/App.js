@@ -2,7 +2,7 @@ import { useRef, useEffect, useState } from 'react';
 
 function App() {
   const button = useRef(null);
-  const [clientid] = useState('62d1582947b7d9001dd20c1a');
+  const [clientid] = useState('CLIENT_ID');
   const [flowid] = useState('63ade1bd0f7132001bd93608');
   const [metadata] = useState('{"userId": "29428231-efa7-44f7-b1cc-897d186025f9"}');
 
