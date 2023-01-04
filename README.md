@@ -2,5 +2,6 @@
 
 to run locally
 ```
+npm i
 npm run start
 ```
